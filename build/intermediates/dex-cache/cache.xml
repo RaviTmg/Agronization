@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.2_63ededa36d7baf5e4fe571f4f775eea57ad0e82b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="026349f4e721c25469d07c442f55f033d2bb6667">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f4a8eda6fe8347ad5718fd374addab4969eb7555\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.2_3a10bd3b3f7d5b116eeb20d30bc1e5178c14afea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a36398768e5ef64f05ca5a1b5f65e128fe13a5e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.2_a944e0965a3222a351ca6b90d7704cf6ba4dfe8b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.2_210a853c6c71022756d4ca66d01d9a8cab50a6bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.2_7ca605f91b19a5c11ce307e4c4aab4819440aca7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_3862ad8bd04aced8dd30d3f82df86880c6ed8179\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_c33aff87c26404ee1f0f507d7fffd3eee240e309\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.github.arimorty\floatingsearchview\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bdcfc754770e283d18b72105bae724f1c9ba1ced">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.arimorty-floatingsearchview-2.0.1_98ecff00111b515431e396d5eaebb888ef68398e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_43493621c215f974dd0c934367e73fdd8bae860e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_167186299ee55f45d8000508fd4f2d763b0d3024\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_af2f7c512b00592e5baf4ba9ee5b4c3b10a4c6a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.2_af6e7b3a25d0c44225ac4a9a24e852d1297586fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.2_2accb3799d17c307eba8c16df2c2446292692559\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.2_0bc3697cdd3ab60743f0e8f1e0e59b69e9062247\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.2_c932c1812efdf32479aa7cb90398ff3bb9f23555\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.2_b023b4adfb61713c3c93aee7dab5d90fb5c93185\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.2_c79800fa7cf64eb211a54eac02a02f2895613659\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.2_7c7cba46eb453c237ae8d48d034693c3b45fb623\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_6e753dadf3ebbc1284e887432ede55426fd877a9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.2_75a90aeb1d3139da711e494ccc07e200adc2e879\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.2_4b5085e8af243cbf4a9294c9574f4274f9c71c6f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.2_4855490a500e8ee236080936bb4b338dbbd96504\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.2_004c82870a5f2c6631cf7088bcbdcf3c81975c48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\me.grantland\autofittextview\0.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="972ca945f0cf5ff0765ab94fa8e1a90661ea197a">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.grantland-autofittextview-0.2.1_10c364cd7a0b7f3c225f26eac7606347747f1638\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.2_670805fe5839486763fa1c3b415cbf645be05d44\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.2_14959b7039f3e4a61fbb404a8096373de8a0ef95\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.miguelcatalan\materialsearchview\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0b9676a041bc57d12622f9da06a7b397ddf8378f">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.miguelcatalan-materialsearchview-1.0.0_7518894af7f8ac4dd85fe1ad22ad71d3c8d7b3cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.github.rahatarmanahmed\circularprogressview\2.5.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="83546b0a7a55c89fcaa55ff282812a4e052e81fe">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.rahatarmanahmed-circularprogressview-2.5.0_6665346454adeff77eaa4ca6bc899a62d675c43b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_3d13ab3a8434c58be9a8b66860ab9ac22c373391\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_541c312b907287996b36915cf9f2de1d5bbf44e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_7b0aa846127a9749b69de136be300399dbb5aab0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.2_2a542292f66284db9cc39d660f5ed9945ea9d882\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_9410b0bc96226f1097cb10f4328cbc98e0f477fd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_144a093198022f296d201cff9143f56f524f9f1f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="102cf5c63a42876f25ce74eccdbf7dc27bc7c608">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_df0b7bd9ad987ddfd8a8729bcd67ab421dab69c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_9cb5bd0d7ba6eef8fd77b0b7632be56206361aad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.2_9bffb197433d31c81e9b0ff1c4c2de1ed61a5428\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.2_76044aebe3c921c32ce2bb3035e29ccefa02bab0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_df5ebffb5fcce376420e4c8eb32ccdbe85a20ea7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.2_4369623aeb3d991cebdfc25aadb00f6f1d8e5c71\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_ed6e6c9e582dd8b98c3d6d32dd98bbe722efa3c9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.2_fba4e642300d57e220e222da4c3b6388fe85b6d6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.2_eb3688616f9ed15345b435ccf7b629ca8a7da610\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.2_af10b11cf682b7092046265c8cdf374ad9a27616\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.2_5b9d477ae67360006435d3579e6cf4150a684172\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_b02c92ae967e54b12c078b0663ed9200038b3254\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.2_d96c8f963a1024e84234f323c92bbf9742356fee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.bartoszlipinski\viewpropertyobjectanimator\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1828dd75d357690efb2c5f4326804e2f7ad21f6c">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bartoszlipinski-viewpropertyobjectanimator-1.2.0_15e4e2a7c88e14bac9b069af04d271cdaf6231f6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_618d6a7d2e1a0a065041d994411c91e6e4256f0a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_6a05edd2c1aa5b9ea8de5352d258e8fabc9cd025\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_555abf1b7e2176d727255a3b15ec9185f9ac26a9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_8324063ecef2e2e5c5a5476b4fd06dd1d704740b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.2_573151ef34b0ae06f5a41f25801e850dbad71ed9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.2_95de32c79c5423d5d093808ab71c9c3d8d24c04c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.2_d593e75749b95146a33e0a783f3ea0893d920b15\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_52fe9d1150f0865673a62f053a13b931aae4fa94\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_9888d65893a3abef481769a52f6fd4933cf7e4ad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.2_7a1d7d16509fa534ec2507dafea6f223263b0749\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_6700eeb03cf4bae78d0fc0191a777d0ad3d1a1e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="C:\Users\Ravi Tmg\AndroidStudioProjects\Agronization\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.2_398bd1654c4eb486b6f8adcdc4fd38362830c3a6\classes.dex" />
+    </item>
+
+</items>
